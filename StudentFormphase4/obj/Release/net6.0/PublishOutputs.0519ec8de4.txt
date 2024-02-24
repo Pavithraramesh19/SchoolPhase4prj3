@@ -1,0 +1,7 @@
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\StudentFormphase4.exe
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\StudentFormphase4.dll
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\StudentFormphase4.deps.json
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\StudentFormphase4.runtimeconfig.json
+C:\Users\epicg\source\repos\StudentFormphase4\StudentFormphase4\obj\Release\net6.0\PubTmp\Out\StudentFormphase4.pdb

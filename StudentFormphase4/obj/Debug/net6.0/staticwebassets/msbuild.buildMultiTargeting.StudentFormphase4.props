@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StudentFormphase4.props" />
+</Project>
